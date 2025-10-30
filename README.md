@@ -27,8 +27,12 @@ All testers must:
    🔗 [**ALMV Security Testing Release v1.1**](https://github.com/haijin2/thchoish-landing-page-p/releases/tag/v.1.1)
 
 2. Download the file:  
-   **`ALMV.exe`**
+    **`ALMV.exe`**
 
 ## Other Guide and Instructions
 
 For further guide and instructions, please refer to the **ALMV_Security Testing Documentation.pdf** file.
+
+For testing images, a folder of images/resources is available at:  
+[Public Images for ALMV Testing](https://drive.google.com/drive/folders/1fGvMWVvYQ9ZRr-a9z4kXBikNq-lCPD13?usp=sharing)  
+Note: You can also use other images to test such as AI-Generated, and etc.
